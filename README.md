@@ -6,12 +6,14 @@
 
 A so very simple personal site.
 
-This was forked from the  [Fork-n-Go](http://jlord.github.io/forkngo) project. I made a few changes for the 
-sake of this class.
+This was originally forked from the  [Fork-n-Go](http://jlord.github.io/forkngo) project. Our class teacher made a few changes for the 
+sake of our class.
 
 To see the original demo, go to [jlord.github.io/hello](http://jlord.github.io/hello).
 
-My repository is here: [katebron.github.io/demo_website](https://katebron.github.io/demo_website/).
+This repository was forked from [demo_website](https://github.com/katebron/demo_website).
+
+My repository is here: [genacode.github.io/litaclass_demo_website](https://genacode.github.io/litaclass_demo_website/).
 
 
 
